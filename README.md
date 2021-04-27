@@ -1,6 +1,4 @@
 # GalagaFinished
-A game created by programmers, artists and designers lead by me as a Lead Programmer and Producer
-
 To look for Scripts used for this project, got to Assets, Galaga Assets and then Scripts.
 The list fo Scripts are named:
   AISpawn - Behavior for creating and destroying enemies
