@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Galaga Assets/Scenes/Galaga.unity
+  isLoaded: 1
+  isActive: 1

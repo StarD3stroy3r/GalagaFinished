@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaAlmostFinished.Plugins", "GalagaAlmostFinished.Plugins.csproj", "{A9CC4843-1D65-42A5-6455-0FFAF69D1E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaAlmostFinished", "GalagaAlmostFinished.csproj", "{97F65497-88C7-2998-5EA4-AD753CDC7E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaAlmostFinished.Editor.Plugins", "GalagaAlmostFinished.Editor.Plugins.csproj", "{592BFF27-B78E-72F8-49C7-63DE6BB9E455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CC4843-1D65-42A5-6455-0FFAF69D1E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CC4843-1D65-42A5-6455-0FFAF69D1E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CC4843-1D65-42A5-6455-0FFAF69D1E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CC4843-1D65-42A5-6455-0FFAF69D1E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F65497-88C7-2998-5EA4-AD753CDC7E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F65497-88C7-2998-5EA4-AD753CDC7E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F65497-88C7-2998-5EA4-AD753CDC7E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F65497-88C7-2998-5EA4-AD753CDC7E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592BFF27-B78E-72F8-49C7-63DE6BB9E455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592BFF27-B78E-72F8-49C7-63DE6BB9E455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592BFF27-B78E-72F8-49C7-63DE6BB9E455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592BFF27-B78E-72F8-49C7-63DE6BB9E455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

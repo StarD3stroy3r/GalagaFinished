@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaReal.CSharp.Plugins", "GalagaReal.CSharp.Plugins.csproj", "{05CB151F-8CCD-95D3-297A-CDA5DCFF4D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaReal.CSharp", "GalagaReal.CSharp.csproj", "{21B2D0F2-C2B2-7C9F-FFAB-39D0F33D47A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaReal.CSharp.Editor.Plugins", "GalagaReal.CSharp.Editor.Plugins.csproj", "{8DC6E502-2390-4427-98AA-E38A6851B965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CB151F-8CCD-95D3-297A-CDA5DCFF4D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CB151F-8CCD-95D3-297A-CDA5DCFF4D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CB151F-8CCD-95D3-297A-CDA5DCFF4D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CB151F-8CCD-95D3-297A-CDA5DCFF4D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B2D0F2-C2B2-7C9F-FFAB-39D0F33D47A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B2D0F2-C2B2-7C9F-FFAB-39D0F33D47A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B2D0F2-C2B2-7C9F-FFAB-39D0F33D47A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B2D0F2-C2B2-7C9F-FFAB-39D0F33D47A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC6E502-2390-4427-98AA-E38A6851B965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC6E502-2390-4427-98AA-E38A6851B965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC6E502-2390-4427-98AA-E38A6851B965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC6E502-2390-4427-98AA-E38A6851B965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

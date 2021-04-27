@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaConnectedScenes.CSharp.Plugins", "GalagaConnectedScenes.CSharp.Plugins.csproj", "{8E5068C4-1D8A-589F-375E-4C255251DF77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaConnectedScenes.CSharp", "GalagaConnectedScenes.CSharp.csproj", "{1B35B117-2DF7-2D96-3C52-09B74E8FB77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalagaConnectedScenes.CSharp.Editor.Plugins", "GalagaConnectedScenes.CSharp.Editor.Plugins.csproj", "{956F10F8-776A-942D-07EE-4302996AABD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5068C4-1D8A-589F-375E-4C255251DF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5068C4-1D8A-589F-375E-4C255251DF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5068C4-1D8A-589F-375E-4C255251DF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5068C4-1D8A-589F-375E-4C255251DF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B35B117-2DF7-2D96-3C52-09B74E8FB77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B35B117-2DF7-2D96-3C52-09B74E8FB77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B35B117-2DF7-2D96-3C52-09B74E8FB77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B35B117-2DF7-2D96-3C52-09B74E8FB77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956F10F8-776A-942D-07EE-4302996AABD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956F10F8-776A-942D-07EE-4302996AABD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956F10F8-776A-942D-07EE-4302996AABD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956F10F8-776A-942D-07EE-4302996AABD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
